@@ -20,13 +20,7 @@ This Employee Payroll Management System is a Java-based application designed to 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/employee-payroll-management-system.git
-2.	**Compile the Code:**
-```bash
-	javac Main.java 
-Run the Program:
-bash
-Copy code
-java Main
+
 2.	**Contributing**
 - Contributions are welcome! Please feel free to submit a Pull Request.
 
