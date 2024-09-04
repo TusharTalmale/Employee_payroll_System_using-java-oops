@@ -5,7 +5,12 @@ This Employee Payroll Management System is a Java-based application designed to 
 
 ## Example output Video
 
-https://github.com/user-attachments/assets/5aa86c21-5f16-4c15-9d9e-c771c8652899
+
+
+
+https://github.com/user-attachments/assets/88e08f8f-7609-45f8-957a-b151d6352323
+
+
 
 
 ## Features
