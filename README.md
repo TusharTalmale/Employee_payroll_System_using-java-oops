@@ -3,6 +3,11 @@
 ## Overview
 This Employee Payroll Management System is a Java-based application designed to manage employee records efficiently. It supports adding, removing, and updating employee details, generating payroll reports, and searching and sorting employees by name or salary.
 
+## Example output Video
+
+https://github.com/user-attachments/assets/5aa86c21-5f16-4c15-9d9e-c771c8652899
+
+
 ## Features
 - **Add Employees**: Easily add full-time or part-time employees with their respective salary details.
 - **Remove Employees**: Remove employees from the system using their unique ID.
@@ -23,4 +28,5 @@ This Employee Payroll Management System is a Java-based application designed to 
   
 2.	**Contributing**
 - Contributions are welcome! Please feel free to submit a Pull Request.
+
 
